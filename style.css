@@ -1,0 +1,27 @@
+body{
+    background-image: url("bg.jpg");   
+}
+.card{
+    color: #73532F;
+    background-color:#000000;
+    opacity: 90%;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    height: 40%;
+    width: 80%;
+}
+.icon{
+    position: relative;
+    color:#73532F;
+    left: 5%;
+}
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: #73532F;
+}
+a:hover {
+    color: #B8864B;
+}
